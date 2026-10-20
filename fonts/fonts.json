@@ -1,0 +1,630 @@
+{
+  "rowdies": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/rowdies.ttf",
+    "sha256": "a79d2c8a5dd9e32e956fb585fd0362965d4b3d89de28f8418547898c4ead4381",
+    "size_bytes": 75784,
+    "aliases": [],
+    "resource_name": "rowdies",
+    "legacy_resource_id": 2131296339
+  },
+  "pecita": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/pecita.otf",
+    "sha256": "0fd219fa9e1414750db7d99eec3e2fbf4c7aacc2bd21a56228f962084c97eade",
+    "size_bytes": 863636,
+    "aliases": [],
+    "resource_name": "pecita",
+    "legacy_resource_id": 2131296330
+  },
+  "nsimsun": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/simsun.ttf",
+    "sha256": "ca4da082cd970f0c8abaa79f213ddcbc475f7b5afabcb81b385998f9ebfbb53f",
+    "size_bytes": 10499104,
+    "aliases": [
+      "simsun"
+    ],
+    "resource_name": "simsun",
+    "legacy_resource_id": 2131296345
+  },
+  "shojumaru": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/shojumaru.ttf",
+    "sha256": "a8f7a6ac2a5128de0a2d6472fb4ce160324ae93b31219cd11e15feee79cd76ce",
+    "size_bytes": 69952,
+    "aliases": [],
+    "resource_name": "shojumaru",
+    "legacy_resource_id": 2131296344
+  },
+  "mental_mania": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/mental_mania.ttf",
+    "sha256": "10ff1ee2c7a25a5e1bbd354bd9d35d9f3006dda95ad7f32f6362efd31b4cf40e",
+    "size_bytes": 244820,
+    "aliases": [],
+    "resource_name": "mental_mania",
+    "legacy_resource_id": 2131296324
+  },
+  "sancreek": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/sancreek.ttf",
+    "sha256": "628b91ecaccb6c85b007e330de936e9954b87092b6771225423a9950ec0c2a4d",
+    "size_bytes": 47616,
+    "aliases": [],
+    "resource_name": "sancreek",
+    "legacy_resource_id": 2131296342
+  },
+  "vni-bandit": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/bandit.ttf",
+    "sha256": "5057980cd28a71732e9e2d258b5e183d742501924a8a31ab843688892ec1a97d",
+    "size_bytes": 43566,
+    "aliases": [
+      "bandit"
+    ],
+    "resource_name": "bandit",
+    "legacy_resource_id": 2131296301
+  },
+  "rye": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/rye.ttf",
+    "sha256": "722825f800cf7ceae4791b274d45da9df517db7cf7a07bfafd34452b787c5354",
+    "size_bytes": 179188,
+    "aliases": [],
+    "resource_name": "rye",
+    "legacy_resource_id": 2131296340
+  },
+  "skranji": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/skranji.ttf",
+    "sha256": "4f4bfcc54258312795a94952cb9eecf4642459a37db55b77cb44357335b7d91b",
+    "size_bytes": 206660,
+    "aliases": [],
+    "resource_name": "skranji",
+    "legacy_resource_id": 2131296346
+  },
+  "tagesschrift": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/tagesschrift.ttf",
+    "sha256": "ded182d453b318df0b6f4a4ed0ca78f6bd0188032d215bbc398983cdf378a318",
+    "size_bytes": 145432,
+    "aliases": [],
+    "resource_name": "tagesschrift",
+    "legacy_resource_id": 2131296350
+  },
+  "aptumi": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/aptumi.ttf",
+    "sha256": "eecae89df95b7934e935aeda26ddf8b90d0acba537c9f24657025bd0be0ba233",
+    "size_bytes": 68424,
+    "aliases": [],
+    "resource_name": "aptumi",
+    "legacy_resource_id": 2131296256
+  },
+  "art_button_font_chocan": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_chocan.ttf",
+    "sha256": "80c703e7e0c56dc35597791867af1a116489cc1995b2b31d75ffc0bee3adc6ad",
+    "size_bytes": 39460,
+    "aliases": [],
+    "resource_name": "art_button_font_chocan",
+    "legacy_resource_id": 2131296257
+  },
+  "art_button_font_greenleaf_banners_regular_ltd": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_greenleaf_banners_regular_ltd.otf",
+    "sha256": "b761f881ba4c97fbbfb9ec11ee3d8aff998f07556979e700d2415b38c63dbc84",
+    "size_bytes": 101033,
+    "aliases": [],
+    "resource_name": "art_button_font_greenleaf_banners_regular_ltd",
+    "legacy_resource_id": 2131296258
+  },
+  "art_button_font_greenleaf_cameo_pro": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_greenleaf_cameo_pro.otf",
+    "sha256": "27f49de5b38565a037af6500d34663b3d01b52ab4eac497f4400e2c4b8d414ab",
+    "size_bytes": 99813,
+    "aliases": [],
+    "resource_name": "art_button_font_greenleaf_cameo_pro",
+    "legacy_resource_id": 2131296259
+  },
+  "art_button_font_greenleaf_engraved_two_ltd": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_greenleaf_engraved_two_ltd.otf",
+    "sha256": "6754ff6b7c3bf2d315fb3642693fb2537bba0e435f4f2d1220cc5ee149dd36e6",
+    "size_bytes": 237701,
+    "aliases": [],
+    "resource_name": "art_button_font_greenleaf_engraved_two_ltd",
+    "legacy_resource_id": 2131296260
+  },
+  "art_button_font_greenleaf_links_one_ltd": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_greenleaf_links_one_ltd.otf",
+    "sha256": "48d902dca968eb9a4a39ca2bdf261fbd2477b16cc06cded7c6269f0d51f67a80",
+    "size_bytes": 21733,
+    "aliases": [],
+    "resource_name": "art_button_font_greenleaf_links_one_ltd",
+    "legacy_resource_id": 2131296261
+  },
+  "art_button_font_greenleafbuttonsltd": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_greenleafbuttonsltd.ttf",
+    "sha256": "f21a61813c4c18f1b054904323badce716718f4c6c002e96ed69915c8a0809cb",
+    "size_bytes": 23428,
+    "aliases": [],
+    "resource_name": "art_button_font_greenleafbuttonsltd",
+    "legacy_resource_id": 2131296262
+  },
+  "art_button_font_greenleafdiamondsltd": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_greenleafdiamondsltd.ttf",
+    "sha256": "384144b5ee2b88073b701de9cc434519199ab7ee58803c2f50e476004b03edf9",
+    "size_bytes": 71452,
+    "aliases": [],
+    "resource_name": "art_button_font_greenleafdiamondsltd",
+    "legacy_resource_id": 2131296263
+  },
+  "art_button_font_specialalphabets_7": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_specialalphabets_7.ttf",
+    "sha256": "4891db6123e01aef879c152e34328b6df686adaae55b1177df5093340e55ef54",
+    "size_bytes": 14244,
+    "aliases": [],
+    "resource_name": "art_button_font_specialalphabets_7",
+    "legacy_resource_id": 2131296264
+  },
+  "art_button_font_specialalphabets_8": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_button_font_specialalphabets_8.ttf",
+    "sha256": "5c35ae2021a07e2db8be5de42eba263d6512be6f47e15f1ebac383668f0ccac7",
+    "size_bytes": 25888,
+    "aliases": [],
+    "resource_name": "art_button_font_specialalphabets_8",
+    "legacy_resource_id": 2131296265
+  },
+  "art_decorative_novelty_acidpunch_w15_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_acidpunch_w15_regular.ttf",
+    "sha256": "ddae9b78bec3e3e0ee5b4dbe38dc0c709bbcc6284e2ce8c118752c04289de2ef",
+    "size_bytes": 94348,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_acidpunch_w15_regular",
+    "legacy_resource_id": 2131296266
+  },
+  "art_decorative_novelty_bangers_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_bangers_regular.ttf",
+    "sha256": "1f9bcc5a779979918a0b8bbff38c87378040f0e52a45eecd47be7b2c6da363c2",
+    "size_bytes": 92468,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_bangers_regular",
+    "legacy_resource_id": 2131296267
+  },
+  "art_decorative_novelty_burlesk_demo": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_burlesk_demo.otf",
+    "sha256": "2b996f6a1a7b9dea4ac9c22caefd4a05cdaf7226934fe19180ea915fbbf013fe",
+    "size_bytes": 53704,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_burlesk_demo",
+    "legacy_resource_id": 2131296268
+  },
+  "art_decorative_novelty_cabinsketch_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_cabinsketch_regular.ttf",
+    "sha256": "e4d535e9ac4e0b06e87737134d61335a9a0bbf5cf11e4aa86b73bb0ef699f6a7",
+    "size_bytes": 154600,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_cabinsketch_regular",
+    "legacy_resource_id": 2131296269
+  },
+  "art_decorative_novelty_frankfurter_highlight_std_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_frankfurter_highlight_std_regular.otf",
+    "sha256": "078468953d5a31f4f51b473e6ef4ce6bd2757d9aaa4dfd0738c75ac14c206a9d",
+    "size_bytes": 41556,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_frankfurter_highlight_std_regular",
+    "legacy_resource_id": 2131296270
+  },
+  "art_decorative_novelty_frankfurter_inline_std_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_frankfurter_inline_std_regular.otf",
+    "sha256": "f384b415de1b7a65948b5e3ded233f24e19dbd07d2ebf7c8a9a40fb1569c1e30",
+    "size_bytes": 37976,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_frankfurter_inline_std_regular",
+    "legacy_resource_id": 2131296271
+  },
+  "art_decorative_novelty_frederickathegreat_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_frederickathegreat_regular.ttf",
+    "sha256": "5a98e88eaa06288c4c55df2e85d611fff36c23dee770c9babcba12bef922676a",
+    "size_bytes": 484664,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_frederickathegreat_regular",
+    "legacy_resource_id": 2131296272
+  },
+  "art_decorative_novelty_hopserifhandlettering_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_hopserifhandlettering_regular.ttf",
+    "sha256": "333718a53de399e1d06776611c6e08811d101ca73c8670daa20e0a2fd5cad861",
+    "size_bytes": 71856,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_hopserifhandlettering_regular",
+    "legacy_resource_id": 2131296273
+  },
+  "art_decorative_novelty_hopserifhandletteringlines_rg": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_hopserifhandletteringlines_rg.ttf",
+    "sha256": "5bc3464e68bfc5a350d2562bc8361bd87adfd0a89793a7cb424d02d1b2e517e1",
+    "size_bytes": 127324,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_hopserifhandletteringlines_rg",
+    "legacy_resource_id": 2131296274
+  },
+  "art_decorative_novelty_itc_isadora_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_itc_isadora_regular.otf",
+    "sha256": "004ebd2cc91d1d28644c7cb6041b4ad0828ca27122c7dcbafa77da3d4585bd6a",
+    "size_bytes": 37776,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_itc_isadora_regular",
+    "legacy_resource_id": 2131296275
+  },
+  "art_decorative_novelty_lackua_lineitalic": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_lackua_lineitalic.ttf",
+    "sha256": "0789ce9f007daafb73b40a7e21ecbd13dc7be519004f1c8c7f83e6ad0be602be",
+    "size_bytes": 213000,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_lackua_lineitalic",
+    "legacy_resource_id": 2131296276
+  },
+  "art_decorative_novelty_morrisromanblack": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_morrisromanblack.ttf",
+    "sha256": "bffc0451465fffc1217c47a2eb4d6234d982b935ea40232799042d5b6bdb8f4c",
+    "size_bytes": 67608,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_morrisromanblack",
+    "legacy_resource_id": 2131296277
+  },
+  "art_decorative_novelty_sancreek_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_sancreek_regular.ttf",
+    "sha256": "628b91ecaccb6c85b007e330de936e9954b87092b6771225423a9950ec0c2a4d",
+    "size_bytes": 47616,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_sancreek_regular",
+    "legacy_resource_id": 2131296278
+  },
+  "art_decorative_novelty_shojumaru_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_shojumaru_regular.ttf",
+    "sha256": "a8f7a6ac2a5128de0a2d6472fb4ce160324ae93b31219cd11e15feee79cd76ce",
+    "size_bytes": 69952,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_shojumaru_regular",
+    "legacy_resource_id": 2131296279
+  },
+  "art_decorative_novelty_specialalphabets_3": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_specialalphabets_3.ttf",
+    "sha256": "91031e3041bae73c6d918dd291ec5e1cfe244b37c6103a51b8da81fd779820d9",
+    "size_bytes": 16804,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_specialalphabets_3",
+    "legacy_resource_id": 2131296280
+  },
+  "art_decorative_novelty_specialalphabets_4": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_specialalphabets_4.ttf",
+    "sha256": "ad5607e42c1f30393a1cbcdf94da7ba0c8aa8979aabb5290a02b46355c33e3a8",
+    "size_bytes": 10112,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_specialalphabets_4",
+    "legacy_resource_id": 2131296281
+  },
+  "art_decorative_novelty_yuyu_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_decorative_novelty_yuyu_regular.ttf",
+    "sha256": "3454b65538c2e789d4d60f5e6784146fcfd023e78ea6d40d582b06adecb0d99f",
+    "size_bytes": 55412,
+    "aliases": [],
+    "resource_name": "art_decorative_novelty_yuyu_regular",
+    "legacy_resource_id": 2131296282
+  },
+  "art_halloween_adrip1": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_adrip1.ttf",
+    "sha256": "9bc483b5db712308da1fbe54d6ceccb7e22c12c7b31228e56b8a25602b975261",
+    "size_bytes": 69632,
+    "aliases": [],
+    "resource_name": "art_halloween_adrip1",
+    "legacy_resource_id": 2131296283
+  },
+  "art_halloween_alley_cat": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_alley_cat.ttf",
+    "sha256": "7a3f571f657ace7d05fe5885e0db24d0e6116bc21d8243476ed2270baea2fc0e",
+    "size_bytes": 188480,
+    "aliases": [],
+    "resource_name": "art_halloween_alley_cat",
+    "legacy_resource_id": 2131296284
+  },
+  "art_halloween_creepster_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_creepster_regular.ttf",
+    "sha256": "af46f60f81e666d31db895554b2fe255fe6b896a899363edb713b7c714c204c3",
+    "size_bytes": 61368,
+    "aliases": [],
+    "resource_name": "art_halloween_creepster_regular",
+    "legacy_resource_id": 2131296285
+  },
+  "art_halloween_deadfall_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_deadfall_regular.ttf",
+    "sha256": "d6af8ec3ca76f782e107f2539abc99bda9b60eb4ae02bc6865696aa3f2adcb78",
+    "size_bytes": 478976,
+    "aliases": [],
+    "resource_name": "art_halloween_deadfall_regular",
+    "legacy_resource_id": 2131296286
+  },
+  "art_halloween_deicide_remain": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_deicide_remain.otf",
+    "sha256": "07452980715d65071e3a63f0280503f841a0a0f0e7011204390b85cbb788c488",
+    "size_bytes": 467280,
+    "aliases": [],
+    "resource_name": "art_halloween_deicide_remain",
+    "legacy_resource_id": 2131296287
+  },
+  "art_halloween_dk_scurvy_dog": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_dk_scurvy_dog.ttf",
+    "sha256": "78d0ab5c51c20df66b2045a0916ac958d812c022084c719c8b5e3e5e350519d2",
+    "size_bytes": 854140,
+    "aliases": [],
+    "resource_name": "art_halloween_dk_scurvy_dog",
+    "legacy_resource_id": 2131296288
+  },
+  "art_halloween_duskregular_3zrl8": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_duskregular_3zrl8.ttf",
+    "sha256": "72283bc45d9778bd8d0b4f7c041857a9e459ebe03cd7a5993b3678644567a228",
+    "size_bytes": 184036,
+    "aliases": [],
+    "resource_name": "art_halloween_duskregular_3zrl8",
+    "legacy_resource_id": 2131296289
+  },
+  "art_halloween_eater_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_eater_regular.ttf",
+    "sha256": "a75d458cd3ef24ed9c9c155856dd2618c574b54a0b818e00c4bc1fd751f3ec3c",
+    "size_bytes": 82476,
+    "aliases": [],
+    "resource_name": "art_halloween_eater_regular",
+    "legacy_resource_id": 2131296290
+  },
+  "art_halloween_kruger_reguler": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_kruger_reguler.ttf",
+    "sha256": "c98cb31aca258e6b9cd3d61db0a1204a8733edfac7a3badb790a8930de9e48d1",
+    "size_bytes": 76268,
+    "aliases": [],
+    "resource_name": "art_halloween_kruger_reguler",
+    "legacy_resource_id": 2131296291
+  },
+  "art_halloween_pnregular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_halloween_pnregular.ttf",
+    "sha256": "38c6b95bf6fd858e6915c1d4f35f091db5f7c48f8a96e78d693590fe4b135661",
+    "size_bytes": 77648,
+    "aliases": [],
+    "resource_name": "art_halloween_pnregular",
+    "legacy_resource_id": 2131296292
+  },
+  "art_pixel_retro_monospace_facadeua_est": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_pixel_retro_monospace_facadeua_est.ttf",
+    "sha256": "b21345740b7c67bcbe7986ca640d3777be9299bbb1e5a6340c63213383a3334e",
+    "size_bytes": 27824,
+    "aliases": [],
+    "resource_name": "art_pixel_retro_monospace_facadeua_est",
+    "legacy_resource_id": 2131296293
+  },
+  "art_pixel_retro_monospace_jersey25_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_pixel_retro_monospace_jersey25_regular.ttf",
+    "sha256": "95af77ec28678963817afbeb761c643391d634f5979678baef99c0e7dc8d92e0",
+    "size_bytes": 141388,
+    "aliases": [],
+    "resource_name": "art_pixel_retro_monospace_jersey25_regular",
+    "legacy_resource_id": 2131296294
+  },
+  "art_pixel_retro_monospace_pixelifysans_variablefont_wght": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_pixel_retro_monospace_pixelifysans_variablefont_wght.ttf",
+    "sha256": "3b672324ddba058f20875081e1134197462f547557114809d94839caff99b7f8",
+    "size_bytes": 78372,
+    "aliases": [],
+    "resource_name": "art_pixel_retro_monospace_pixelifysans_variablefont_wght",
+    "legacy_resource_id": 2131296295
+  },
+  "art_pixel_retro_monospace_specialelite_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_pixel_retro_monospace_specialelite_regular.ttf",
+    "sha256": "14780ea85064dcb150c23c9a87e2b870439c38668b6d8f1dad5c6db701ab9520",
+    "size_bytes": 151068,
+    "aliases": [],
+    "resource_name": "art_pixel_retro_monospace_specialelite_regular",
+    "legacy_resource_id": 2131296296
+  },
+  "art_pixel_retro_monospace_vt323_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/art_pixel_retro_monospace_vt323_regular.ttf",
+    "sha256": "cee34b1d391e4b77b07b514f2c9c98fb2f60b49d4936fde107d212cceac5e012",
+    "size_bytes": 149688,
+    "aliases": [],
+    "resource_name": "art_pixel_retro_monospace_vt323_regular",
+    "legacy_resource_id": 2131296297
+  },
+  "baloo": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/baloo.ttf",
+    "sha256": "e1bc2e47cfd8897297d0713cbc22e6656b7e5eadddfac6ca16f78c5618c3fe60",
+    "size_bytes": 420092,
+    "aliases": [],
+    "resource_name": "baloo",
+    "legacy_resource_id": 2131296298
+  },
+  "bebas_neue": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/bebas_neue.ttf",
+    "sha256": "830ea186acffc2316ed1a4e42319246ba3b46b04e33a211079249bf901193f04",
+    "size_bytes": 57676,
+    "aliases": [],
+    "resource_name": "bebas_neue",
+    "legacy_resource_id": 2131296302
+  },
+  "blender_bold": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/blender_bold.ttf",
+    "sha256": "376dcd0decaebdd178a55dad20e36bc3cf7d09757ebe9abff07925edd7c6fa77",
+    "size_bytes": 198224,
+    "aliases": [],
+    "resource_name": "blender_bold",
+    "legacy_resource_id": 2131296303
+  },
+  "chewy": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/chewy.ttf",
+    "sha256": "b4166ef435cce980819a25aa6ef045603378f2cb1477e377daaa6061765bb2be",
+    "size_bytes": 40212,
+    "aliases": [],
+    "resource_name": "chewy",
+    "legacy_resource_id": 2131296305
+  },
+  "comicneue": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/comicneue.ttf",
+    "sha256": "c802d1294419c5584ab09cd1b9a674d16e94aa5ddc8b29705ccbf36ccede714e",
+    "size_bytes": 53376,
+    "aliases": [],
+    "resource_name": "comicneue",
+    "legacy_resource_id": 2131296307
+  },
+  "concertone": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/concertone.ttf",
+    "sha256": "6815318f61c9662d9d553476965ce137185f0c790bf47fb08932b58fcc71dc2d",
+    "size_bytes": 69996,
+    "aliases": [],
+    "resource_name": "concertone",
+    "legacy_resource_id": 2131296308
+  },
+  "delius": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/delius.ttf",
+    "sha256": "f68d1021b7a7df0f7bb0f9980e04b41ff0e75e1ed00a61ebb384f1df4a147261",
+    "size_bytes": 58848,
+    "aliases": [],
+    "resource_name": "delius",
+    "legacy_resource_id": 2131296309
+  },
+  "dynapuff": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/dynapuff.ttf",
+    "sha256": "31436e6351045db5367ff56079a8cf71cb4f540c2d6c5c86754ab41207431b3b",
+    "size_bytes": 90448,
+    "aliases": [],
+    "resource_name": "dynapuff",
+    "legacy_resource_id": 2131296310
+  },
+  "forced_square": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/forced_square.ttf",
+    "sha256": "759561919939c2a9f710cdc9b03f1d986e9020400738e8f59497a11acccdb537",
+    "size_bytes": 45504,
+    "aliases": [],
+    "resource_name": "forced_square",
+    "legacy_resource_id": 2131296317
+  },
+  "fredoka": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/fredoka.ttf",
+    "sha256": "8143bd54f5b1e04f4554b326a5e5fb70414add9b0a44210837fdfba2304ae6fa",
+    "size_bytes": 49932,
+    "aliases": [],
+    "resource_name": "fredoka",
+    "legacy_resource_id": 2131296318
+  },
+  "gochihand": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/gochihand.ttf",
+    "sha256": "57e17aabd8bfa36f9ce790f26a64176abd01f89df2fac8263aa50003daaf81b5",
+    "size_bytes": 35948,
+    "aliases": [],
+    "resource_name": "gochihand",
+    "legacy_resource_id": 2131296319
+  },
+  "hammersmithone": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/hammersmithone.ttf",
+    "sha256": "6c684c4e9555f423191e2e32b5a0708072a5f230c0626d320ae07e627fa1e8ad",
+    "size_bytes": 100352,
+    "aliases": [],
+    "resource_name": "hammersmithone",
+    "legacy_resource_id": 2131296320
+  },
+  "jersey_10": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/jersey_10.ttf",
+    "sha256": "d661892ab865793dbbf1d4d9514ca2d3c5adb5b1f06ad302fff4d021042dd82a",
+    "size_bytes": 76636,
+    "aliases": [],
+    "resource_name": "jersey_10",
+    "legacy_resource_id": 2131296321
+  },
+  "jersey_20": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/jersey_20.ttf",
+    "sha256": "5431134f4114c68d1166a3c215cd3b488140010facd9cd6870741d8c55dc7472",
+    "size_bytes": 127616,
+    "aliases": [],
+    "resource_name": "jersey_20",
+    "legacy_resource_id": 2131296322
+  },
+  "kavoon": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/kavoon.ttf",
+    "sha256": "e39fef10526244164dccecc92aea0ce001c7a35900b59ee12bdece10fe8815a3",
+    "size_bytes": 69216,
+    "aliases": [],
+    "resource_name": "kavoon",
+    "legacy_resource_id": 2131296323
+  },
+  "oswald": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/oswald.ttf",
+    "sha256": "9df7f3a0cc13d6e7510c9ee2f887710306c1c49eb47dd53535f2741b1ed7c4f7",
+    "size_bytes": 169108,
+    "aliases": [],
+    "resource_name": "oswald",
+    "legacy_resource_id": 2131296326
+  },
+  "pangolin": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/pangolin.ttf",
+    "sha256": "a48db64eadc589c2e9f14a4ba79eed82a438c7f620f929dd19e352c20b2a922e",
+    "size_bytes": 589884,
+    "aliases": [],
+    "resource_name": "pangolin",
+    "legacy_resource_id": 2131296328
+  },
+  "patrickhand": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/patrickhand.ttf",
+    "sha256": "496937dafcb18bf2c2f624ed02c8f7f4d47bd1e4e6e5646c42b6cfd873c6b13c",
+    "size_bytes": 212112,
+    "aliases": [],
+    "resource_name": "patrickhand",
+    "legacy_resource_id": 2131296329
+  },
+  "pixelifysans": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/pixelifysans.ttf",
+    "sha256": "38397504f71c122b03d234ea6f55118e3d5bdbddffd82bedddbd7755d3b3be82",
+    "size_bytes": 51072,
+    "aliases": [],
+    "resource_name": "pixelifysans",
+    "legacy_resource_id": 2131296331
+  },
+  "pixeloperator": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/pixeloperator.ttf",
+    "sha256": "c1963fa21043a357212e0a9e8ae1986bc375c1759e68bd3533c4f71b164614b0",
+    "size_bytes": 16984,
+    "aliases": [],
+    "resource_name": "pixeloperator",
+    "legacy_resource_id": 2131296332
+  },
+  "sairastencilone": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/sairastencilone.ttf",
+    "sha256": "29271c256d168394f1aa73fb4da3c57d1c2f48e38acd01f824c636c9932150cc",
+    "size_bytes": 101596,
+    "aliases": [],
+    "resource_name": "sairastencilone",
+    "legacy_resource_id": 2131296341
+  },
+  "sevillana": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/sevillana.ttf",
+    "sha256": "0084cf8b6a7eecbf948ee3018c02b8142a5eff62f4021c3c70e5953fafeb9d55",
+    "size_bytes": 153540,
+    "aliases": [],
+    "resource_name": "sevillana",
+    "legacy_resource_id": 2131296343
+  },
+  "sniglet": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/sniglet.ttf",
+    "sha256": "a20f3a50e8d92dfc143ee82e46df07f6e7f01e21b50f2d78081314a7c25bd9dd",
+    "size_bytes": 72828,
+    "aliases": [],
+    "resource_name": "sniglet",
+    "legacy_resource_id": 2131296347
+  },
+  "super_mario": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/super_mario.ttf",
+    "sha256": "6e9eef4f6def32280211c41fad0e09eda950937e3b0dfe813911e9927752742a",
+    "size_bytes": 16312,
+    "aliases": [],
+    "resource_name": "super_mario",
+    "legacy_resource_id": 2131296348
+  },
+  "tacone_regular": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/tacone_regular.ttf",
+    "sha256": "a5562e71da14f99d8ec111b232e38f3e05948b3d09c4a8a7255470a8307f08d0",
+    "size_bytes": 144256,
+    "aliases": [],
+    "resource_name": "tacone_regular",
+    "legacy_resource_id": 2131296349
+  },
+  "talling": {
+    "url": "https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/fonts/talling.ttf",
+    "sha256": "a594ed448a548ad31471108986ae6cf743308f68b080481eda587279b444deeb",
+    "size_bytes": 57724,
+    "aliases": [],
+    "resource_name": "talling",
+    "legacy_resource_id": 2131296351
+  }
+}
