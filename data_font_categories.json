@@ -1,0 +1,32 @@
+[
+ {
+  "category": "Display",
+  "icon_url": "Category/fonts/fontc_display.webp",
+  "count": 28
+ },
+ {
+  "category": "Handwriting",
+  "icon_url": "Category/fonts/fontc_handwriting.webp",
+  "count": 24
+ },
+ {
+  "category": "Sans",
+  "icon_url": "Category/fonts/fontc_sans.webp",
+  "count": 34
+ },
+ {
+  "category": "Serif",
+  "icon_url": "Category/fonts/fontc_serif.webp",
+  "count": 8
+ },
+ {
+  "category": "Mono",
+  "icon_url": "Category/fonts/fontc_mono.webp",
+  "count": 6
+ },
+ {
+  "category": "Cute",
+  "icon_url": "Category/fonts/fontc_cute.webp",
+  "count": 12
+ }
+]

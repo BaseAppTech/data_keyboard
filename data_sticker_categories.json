@@ -1,0 +1,52 @@
+[
+ {
+  "category": "Animals",
+  "icon_url": "Category/stickers/stc_animals.webp",
+  "count": 12
+ },
+ {
+  "category": "Anime",
+  "icon_url": "Category/stickers/stc_anime.webp",
+  "count": 12
+ },
+ {
+  "category": "Cats",
+  "icon_url": "Category/stickers/stc_cats.webp",
+  "count": 15
+ },
+ {
+  "category": "Chibi",
+  "icon_url": "Category/stickers/stc_chibi.webp",
+  "count": 8
+ },
+ {
+  "category": "Couple",
+  "icon_url": "Category/stickers/stc_couple.webp",
+  "count": 10
+ },
+ {
+  "category": "Cute",
+  "icon_url": "Category/stickers/stc_cute.webp",
+  "count": 12
+ },
+ {
+  "category": "Food",
+  "icon_url": "Category/stickers/stc_food.webp",
+  "count": 8
+ },
+ {
+  "category": "Game",
+  "icon_url": "Category/stickers/stc_game.webp",
+  "count": 4
+ },
+ {
+  "category": "Meme",
+  "icon_url": "Category/stickers/stc_meme.webp",
+  "count": 11
+ },
+ {
+  "category": "Seasonal",
+  "icon_url": "Category/stickers/stc_seasonal.webp",
+  "count": 8
+ }
+]

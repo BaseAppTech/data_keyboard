@@ -1,0 +1,922 @@
+[
+ {
+  "id": 1,
+  "name": "Star",
+  "image_url": "Effect/Stars/img_effect_new_001_star.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 2,
+  "name": "Heart Pixel",
+  "image_url": "Effect/Hearts/img_effect_new_002_heart_pixel.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Hearts"
+ },
+ {
+  "id": 3,
+  "name": "Starburst",
+  "image_url": "Effect/Sparkles/img_effect_new_003_starburst.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 4,
+  "name": "Soap Bubble",
+  "image_url": "Effect/Bubbles/img_effect_new_004_soap_bubble.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 5,
+  "name": "Snowflake",
+  "image_url": "Effect/Snowflakes/img_effect_new_005_snowflake.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Snowflakes"
+ },
+ {
+  "id": 6,
+  "name": "Bubble Blue",
+  "image_url": "Effect/Bubbles/img_effect_new_006_bubble_blue.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 7,
+  "name": "Bubble Purple",
+  "image_url": "Effect/Bubbles/img_effect_new_007_bubble_purple.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 8,
+  "name": "Bubble Red",
+  "image_url": "Effect/Bubbles/img_effect_new_008_bubble_red.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 9,
+  "name": "Bubble Green",
+  "image_url": "Effect/Bubbles/img_effect_new_009_bubble_green.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 10,
+  "name": "Bubble White",
+  "image_url": "Effect/Bubbles/img_effect_new_010_bubble_white.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 11,
+  "name": "Ice Sparkles",
+  "image_url": "Effect/Sparkles/img_effect_new_011_ice_sparkles.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 12,
+  "name": "Sparkle Black",
+  "image_url": "Effect/Sparkles/img_effect_new_012_sparkle_black.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 13,
+  "name": "Sparkle Blue",
+  "image_url": "Effect/Sparkles/img_effect_new_013_sparkle_blue.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 14,
+  "name": "Sparkle Cyan",
+  "image_url": "Effect/Sparkles/img_effect_new_014_sparkle_cyan.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 15,
+  "name": "Sparkle Green",
+  "image_url": "Effect/Sparkles/img_effect_new_015_sparkle_green.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 16,
+  "name": "Sparkle Orange",
+  "image_url": "Effect/Sparkles/img_effect_new_016_sparkle_orange.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 17,
+  "name": "Sparkle Purple",
+  "image_url": "Effect/Sparkles/img_effect_new_017_sparkle_purple.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 18,
+  "name": "Sparkle Red",
+  "image_url": "Effect/Sparkles/img_effect_new_018_sparkle_red.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 19,
+  "name": "Sparkle Violet",
+  "image_url": "Effect/Sparkles/img_effect_new_019_sparkle_violet.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 20,
+  "name": "Sparkle White",
+  "image_url": "Effect/Sparkles/img_effect_new_020_sparkle_white.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 21,
+  "name": "Sparkle Yellow",
+  "image_url": "Effect/Sparkles/img_effect_new_021_sparkle_yellow.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 22,
+  "name": "Killer Snowflake",
+  "image_url": "Effect/Snowflakes/img_effect_new_022_killer_snowflake.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Snowflakes"
+ },
+ {
+  "id": 23,
+  "name": "Blue Bubble 3D",
+  "image_url": "Effect/Bubbles/img_effect_new_023_blue_bubble_3d.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 24,
+  "name": "Mandala Snowflake",
+  "image_url": "Effect/Snowflakes/img_effect_new_024_mandala_snowflake.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Snowflakes"
+ },
+ {
+  "id": 25,
+  "name": "Particle Star 01",
+  "image_url": "Effect/Stars/img_effect_new_025_particle_star_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 26,
+  "name": "Particle Star 02",
+  "image_url": "Effect/Stars/img_effect_new_026_particle_star_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 27,
+  "name": "Particle Star 03",
+  "image_url": "Effect/Stars/img_effect_new_027_particle_star_03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 28,
+  "name": "Particle Star 04",
+  "image_url": "Effect/Stars/img_effect_new_028_particle_star_04.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 29,
+  "name": "Particle Star 05",
+  "image_url": "Effect/Stars/img_effect_new_029_particle_star_05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 30,
+  "name": "Particle Star 06",
+  "image_url": "Effect/Stars/img_effect_new_030_particle_star_06.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 31,
+  "name": "Particle Star 07",
+  "image_url": "Effect/Stars/img_effect_new_031_particle_star_07.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 32,
+  "name": "Particle Star 08",
+  "image_url": "Effect/Stars/img_effect_new_032_particle_star_08.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 33,
+  "name": "Particle Star 09",
+  "image_url": "Effect/Stars/img_effect_new_033_particle_star_09.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Stars"
+ },
+ {
+  "id": 34,
+  "name": "Particle Spark 01",
+  "image_url": "Effect/Sparkles/img_effect_new_034_particle_spark_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 35,
+  "name": "Particle Spark 02",
+  "image_url": "Effect/Sparkles/img_effect_new_035_particle_spark_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 36,
+  "name": "Particle Spark 03",
+  "image_url": "Effect/Sparkles/img_effect_new_036_particle_spark_03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 37,
+  "name": "Particle Spark 04",
+  "image_url": "Effect/Sparkles/img_effect_new_037_particle_spark_04.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 38,
+  "name": "Particle Spark 05",
+  "image_url": "Effect/Sparkles/img_effect_new_038_particle_spark_05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 39,
+  "name": "Particle Spark 06",
+  "image_url": "Effect/Sparkles/img_effect_new_039_particle_spark_06.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 40,
+  "name": "Particle Spark 07",
+  "image_url": "Effect/Sparkles/img_effect_new_040_particle_spark_07.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 41,
+  "name": "Particle Magic 01",
+  "image_url": "Effect/Sparkles/img_effect_new_041_particle_magic_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 42,
+  "name": "Particle Magic 02",
+  "image_url": "Effect/Sparkles/img_effect_new_042_particle_magic_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 43,
+  "name": "Particle Magic 03",
+  "image_url": "Effect/Sparkles/img_effect_new_043_particle_magic_03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 44,
+  "name": "Particle Magic 04",
+  "image_url": "Effect/Sparkles/img_effect_new_044_particle_magic_04.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 45,
+  "name": "Particle Magic 05",
+  "image_url": "Effect/Sparkles/img_effect_new_045_particle_magic_05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 46,
+  "name": "Particle Fire 01",
+  "image_url": "Effect/Flames/img_effect_new_046_particle_fire_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Flames"
+ },
+ {
+  "id": 47,
+  "name": "Particle Fire 02",
+  "image_url": "Effect/Flames/img_effect_new_047_particle_fire_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Flames"
+ },
+ {
+  "id": 48,
+  "name": "Particle Light 01",
+  "image_url": "Effect/Sparkles/img_effect_new_048_particle_light_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 49,
+  "name": "Particle Light 02",
+  "image_url": "Effect/Sparkles/img_effect_new_049_particle_light_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 50,
+  "name": "Particle Light 03",
+  "image_url": "Effect/Sparkles/img_effect_new_050_particle_light_03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 51,
+  "name": "Particle Flare 01",
+  "image_url": "Effect/Sparkles/img_effect_new_051_particle_flare_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 52,
+  "name": "Particle Circle 01",
+  "image_url": "Effect/Bubbles/img_effect_new_052_particle_circle_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 53,
+  "name": "Particle Circle 02",
+  "image_url": "Effect/Bubbles/img_effect_new_053_particle_circle_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 54,
+  "name": "Particle Circle 03",
+  "image_url": "Effect/Bubbles/img_effect_new_054_particle_circle_03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 55,
+  "name": "Particle Circle 04",
+  "image_url": "Effect/Bubbles/img_effect_new_055_particle_circle_04.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 56,
+  "name": "Particle Circle 05",
+  "image_url": "Effect/Bubbles/img_effect_new_056_particle_circle_05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Bubbles"
+ },
+ {
+  "id": 57,
+  "name": "Particle Twirl 01",
+  "image_url": "Effect/Sparkles/img_effect_new_057_particle_twirl_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 58,
+  "name": "Particle Twirl 02",
+  "image_url": "Effect/Sparkles/img_effect_new_058_particle_twirl_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 59,
+  "name": "Particle Twirl 03",
+  "image_url": "Effect/Sparkles/img_effect_new_059_particle_twirl_03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 60,
+  "name": "Particle Symbol 01",
+  "image_url": "Effect/Sparkles/img_effect_new_060_particle_symbol_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 61,
+  "name": "Particle Symbol 02",
+  "image_url": "Effect/Sparkles/img_effect_new_061_particle_symbol_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Sparkles"
+ },
+ {
+  "id": 62,
+  "name": "Particle Flame 01",
+  "image_url": "Effect/Flames/img_effect_new_062_particle_flame_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Flames"
+ },
+ {
+  "id": 63,
+  "name": "Particle Flame 05",
+  "image_url": "Effect/Flames/img_effect_new_063_particle_flame_05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Flames"
+ },
+ {
+  "id": 64,
+  "name": "Particle Flame 06",
+  "image_url": "Effect/Flames/img_effect_new_064_particle_flame_06.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Flames"
+ },
+ {
+  "id": 65,
+  "name": "Leaf sprite_0001",
+  "image_url": "Effect/Leaves/img_effect_new_065_leaf_sprite_0001.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 66,
+  "name": "Leaf sprite_0002",
+  "image_url": "Effect/Leaves/img_effect_new_066_leaf_sprite_0002.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 67,
+  "name": "Leaf sprite_0003",
+  "image_url": "Effect/Leaves/img_effect_new_067_leaf_sprite_0003.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 68,
+  "name": "Leaf sprite_0004",
+  "image_url": "Effect/Leaves/img_effect_new_068_leaf_sprite_0004.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 69,
+  "name": "Leaf sprite_0005",
+  "image_url": "Effect/Leaves/img_effect_new_069_leaf_sprite_0005.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 70,
+  "name": "Leaf sprite_0006",
+  "image_url": "Effect/Leaves/img_effect_new_070_leaf_sprite_0006.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 71,
+  "name": "Leaf sprite_0007",
+  "image_url": "Effect/Leaves/img_effect_new_071_leaf_sprite_0007.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 72,
+  "name": "Leaf sprite_0008",
+  "image_url": "Effect/Leaves/img_effect_new_072_leaf_sprite_0008.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 73,
+  "name": "Leaf sprite_0009",
+  "image_url": "Effect/Leaves/img_effect_new_073_leaf_sprite_0009.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 74,
+  "name": "Leaf sprite_0010",
+  "image_url": "Effect/Leaves/img_effect_new_074_leaf_sprite_0010.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 75,
+  "name": "Leaf sprite_0011",
+  "image_url": "Effect/Leaves/img_effect_new_075_leaf_sprite_0011.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 76,
+  "name": "Leaf sprite_0012",
+  "image_url": "Effect/Leaves/img_effect_new_076_leaf_sprite_0012.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 77,
+  "name": "Leaf sprite_0013",
+  "image_url": "Effect/Leaves/img_effect_new_077_leaf_sprite_0013.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 78,
+  "name": "Leaf sprite_0014",
+  "image_url": "Effect/Leaves/img_effect_new_078_leaf_sprite_0014.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Leaves"
+ },
+ {
+  "id": 79,
+  "name": "Smoke whitePuff00",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_079_smoke_whitepuff00.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 80,
+  "name": "Smoke whitePuff01",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_080_smoke_whitepuff01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 81,
+  "name": "Smoke whitePuff02",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_081_smoke_whitepuff02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 82,
+  "name": "Smoke whitePuff03",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_082_smoke_whitepuff03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 83,
+  "name": "Smoke whitePuff04",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_083_smoke_whitepuff04.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 84,
+  "name": "Smoke whitePuff05",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_084_smoke_whitepuff05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 85,
+  "name": "Smoke whitePuff06",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_085_smoke_whitepuff06.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 86,
+  "name": "Smoke whitePuff07",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_086_smoke_whitepuff07.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 87,
+  "name": "Splat splat00",
+  "image_url": "Effect/Splats/img_effect_new_087_splat_splat00.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 88,
+  "name": "Splat splat01",
+  "image_url": "Effect/Splats/img_effect_new_088_splat_splat01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 89,
+  "name": "Splat splat02",
+  "image_url": "Effect/Splats/img_effect_new_089_splat_splat02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 90,
+  "name": "Splat splat03",
+  "image_url": "Effect/Splats/img_effect_new_090_splat_splat03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 91,
+  "name": "Splat splat04",
+  "image_url": "Effect/Splats/img_effect_new_091_splat_splat04.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 92,
+  "name": "Splat splat05",
+  "image_url": "Effect/Splats/img_effect_new_092_splat_splat05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 93,
+  "name": "Splat splat06",
+  "image_url": "Effect/Splats/img_effect_new_093_splat_splat06.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 94,
+  "name": "Splat splat07",
+  "image_url": "Effect/Splats/img_effect_new_094_splat_splat07.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Splats"
+ },
+ {
+  "id": 95,
+  "name": "Particle Smoke 01",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_095_particle_smoke_01.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 96,
+  "name": "Particle Smoke 02",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_096_particle_smoke_02.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 97,
+  "name": "Particle Smoke 03",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_097_particle_smoke_03.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 98,
+  "name": "Particle Smoke 04",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_098_particle_smoke_04.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 99,
+  "name": "Particle Smoke 05",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_099_particle_smoke_05.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 100,
+  "name": "Particle Smoke 06",
+  "image_url": "Effect/Smoke & Clouds/img_effect_new_100_particle_smoke_06.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Smoke & Clouds"
+ },
+ {
+  "id": 101,
+  "name": "Cute Star 01 Pink",
+  "image_url": "Effect/Cute/img_effect_new_101_cute-star-01-pink.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 102,
+  "name": "Cute Star 03 Lavender",
+  "image_url": "Effect/Cute/img_effect_new_102_cute-star-03-lavender.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 103,
+  "name": "Cute Star 05 Butter",
+  "image_url": "Effect/Cute/img_effect_new_103_cute-star-05-butter.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 104,
+  "name": "Cute Star 07 Mint",
+  "image_url": "Effect/Cute/img_effect_new_104_cute-star-07-mint.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 105,
+  "name": "Cute Star 09 Sky",
+  "image_url": "Effect/Cute/img_effect_new_105_cute-star-09-sky.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 106,
+  "name": "Cute Star 02 Pink",
+  "image_url": "Effect/Cute/img_effect_new_106_cute-star-02-pink.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 107,
+  "name": "Cute Star 04 Lavender",
+  "image_url": "Effect/Cute/img_effect_new_107_cute-star-04-lavender.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 108,
+  "name": "Cute Star 08 Butter",
+  "image_url": "Effect/Cute/img_effect_new_108_cute-star-08-butter.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 109,
+  "name": "Cute Magic 01 Pink",
+  "image_url": "Effect/Cute/img_effect_new_109_cute-magic-01-pink.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 110,
+  "name": "Cute Magic 03 Gold",
+  "image_url": "Effect/Cute/img_effect_new_110_cute-magic-03-gold.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 111,
+  "name": "Cute Magic 05 Mint",
+  "image_url": "Effect/Cute/img_effect_new_111_cute-magic-05-mint.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 112,
+  "name": "Cute Twirl 01 Lavender",
+  "image_url": "Effect/Cute/img_effect_new_112_cute-twirl-01-lavender.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 113,
+  "name": "Cute Twirl 03 Pink",
+  "image_url": "Effect/Cute/img_effect_new_113_cute-twirl-03-pink.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 114,
+  "name": "Cute Circle 01 Pink",
+  "image_url": "Effect/Cute/img_effect_new_114_cute-circle-01-pink.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ },
+ {
+  "id": 115,
+  "name": "Cute Flare 01 Butter",
+  "image_url": "Effect/Cute/img_effect_new_115_cute-flare-01-butter.webp",
+  "is_free": true,
+  "effect_type": 1,
+  "category": "Cute"
+ }
+]

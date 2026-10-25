@@ -1,0 +1,52 @@
+[
+ {
+  "category": "Stars",
+  "icon_url": "Category/effects/effc_stars.webp",
+  "count": 10
+ },
+ {
+  "category": "Hearts",
+  "icon_url": "Category/effects/effc_hearts.webp",
+  "count": 1
+ },
+ {
+  "category": "Sparkles",
+  "icon_url": "Category/effects/effc_sparkles.webp",
+  "count": 33
+ },
+ {
+  "category": "Bubbles",
+  "icon_url": "Category/effects/effc_bubbles.webp",
+  "count": 12
+ },
+ {
+  "category": "Snowflakes",
+  "icon_url": "Category/effects/effc_snowflakes.webp",
+  "count": 3
+ },
+ {
+  "category": "Flames",
+  "icon_url": "Category/effects/effc_flames.webp",
+  "count": 5
+ },
+ {
+  "category": "Leaves",
+  "icon_url": "Category/effects/effc_leaves.webp",
+  "count": 14
+ },
+ {
+  "category": "Smoke & Clouds",
+  "icon_url": "Category/effects/effc_smoke_clouds.webp",
+  "count": 14
+ },
+ {
+  "category": "Splats",
+  "icon_url": "Category/effects/effc_splats.webp",
+  "count": 8
+ },
+ {
+  "category": "Cute",
+  "icon_url": "Category/effects/effc_cute.webp",
+  "count": 15
+ }
+]

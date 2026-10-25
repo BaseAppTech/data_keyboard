@@ -1,0 +1,72 @@
+[
+ {
+  "type": "cute",
+  "en": "Cute",
+  "icon_url": "Category/cate_cute.webp"
+ },
+ {
+  "type": "kawaii",
+  "en": "Kawaii",
+  "icon_url": "Category/cate_kawaii.webp"
+ },
+ {
+  "type": "sport",
+  "en": "Sport",
+  "icon_url": "Category/cate_sport.webp"
+ },
+ {
+  "type": "trending",
+  "en": "Trending",
+  "icon_url": "Category/cate_trending.webp"
+ },
+ {
+  "type": "new",
+  "en": "New",
+  "icon_url": "Category/cate_new.webp"
+ },
+ {
+  "type": "minimal",
+  "en": "Minimal",
+  "icon_url": "Category/cate_minimal.webp"
+ },
+ {
+  "type": "gaming",
+  "en": "Gaming",
+  "icon_url": "Category/cate_gaming.webp"
+ },
+ {
+  "type": "cat",
+  "en": "Cat",
+  "icon_url": "Category/cate_cat.webp"
+ },
+ {
+  "type": "kpop",
+  "en": "K-pop",
+  "icon_url": "Category/cate_kpop.webp"
+ },
+ {
+  "type": "pixel",
+  "en": "Pixel",
+  "icon_url": "Category/cate_pixel.webp"
+ },
+ {
+  "type": "cartoon",
+  "en": "Cartoon",
+  "icon_url": "Category/cate_cartoon.webp"
+ },
+ {
+  "type": "zodiac",
+  "en": "Zodiac",
+  "icon_url": "Category/cate_zodiac.webp"
+ },
+ {
+  "type": "holiday",
+  "en": "Holiday",
+  "icon_url": "Category/cate_holiday.webp"
+ },
+ {
+  "type": "aesthetic",
+  "en": "Aesthetic",
+  "icon_url": "Category/cate_aesthetic.webp"
+ }
+]
