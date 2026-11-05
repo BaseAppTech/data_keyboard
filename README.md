@@ -1,6 +1,12 @@
 # cute_keyboard_data_new — Bộ data mới cho app CuteKeyboard
 
-Dựng 100% từ 4 file zip (không tái sử dụng file nào của `cute_keyboard_data` cũ):
+Gồm 2 phần:
+
+1. **Bộ gốc**: 160 theme combo, sticker, effect, font, dựng từ 4 file zip (mục ngay dưới).
+2. **238 theme mới (ID 470–747)**, thêm ngày 05/11/2026, vẽ 100% bằng code (xem mục
+   [Cập nhật 05/11/2026](#cập-nhật-05112026--238-theme-mới-id-470747)).
+
+Bộ gốc dựng 100% từ 4 file zip (không tái sử dụng file nào của `cute_keyboard_data` cũ):
 
 | Zip | Nội dung |
 |---|---|
@@ -9,7 +15,7 @@ Dựng 100% từ 4 file zip (không tái sử dụng file nào của `cute_keybo
 | `effects_100.zip` | 115 hiệu ứng trong `Effect/` + `effects.json` |
 | `fonts_100.zip` | 112 font trong `fonts/{Display,Handwriting,Sans,Serif,Mono,Cute}/` + `fonts/fonts.json` |
 
-Tổng: ~6.000 file, ~520 MB.
+Tổng sau đợt 05/11/2026: 8.784 file, khoảng 555 MB (398 thư mục theme: 160 cũ 113 MB, 238 mới 87 MB).
 
 ## Manifest cho app
 
@@ -19,18 +25,63 @@ file nhị phân theo **đường dẫn tương đối** ghép với base URL re
 
 | File | Dùng cho Remote Config key | Ghi chú |
 |---|---|---|
-| `catalog_combo_160.json` | `data_themes_cute_keyboard` | Đúng format `KeyboardModel`, dùng nguyên bản từ zip |
+| `catalog_combo_all.json` | `data_themes_cute_keyboard` | **Dùng file này.** 398 theme: 160 theme combo (đã sửa màu chữ, phím row3, thanh công cụ) + 238 theme mới, đúng format `KeyboardModel` |
+| `catalog_combo_160.json` | (tham khảo) | 160 theme combo nguyên bản từ zip, chưa sửa |
 | `data_effect_cute_keyboard.json` | `data_effect_cute_keyboard` | Chuyển từ `effects.json` sang format `EffectModel` (id, name, image_url, is_free, effect_type=1). 15 entry cuối của zip không có `id`/`name` — đã gán từ số `n` và tên file |
 | `data_stickers.json` | `data_stickers` | Chuyển từ `categories.json` sang format `StickerCategoryModel` (id, name, img_thumb, stickers[], price, is_free). `img_thumb` = `Thumb.webp` của pack. **Tự phân cấp theo độ phổ biến (downloads)**: 75 pack free / 15 pack 100 cà rốt / 10 pack hot nhất 200 cà rốt — model sticker không có `premium_only` nên chỉ 2 tầng free/carrot (VIP sub mở hết) |
-| `fonts/fonts.json` | `data_theme_fonts` | Nguyên bản từ zip, đã rewrite URL trỏ về repo mới |
+| `fonts/fonts.json` | `data_theme_fonts` | Từ zip, đã rewrite URL trỏ về repo mới. **05/11/2026: bỏ `"legacy_resource_id": null`** (giá trị null làm `ThemeFontCatalog.parse` ném lỗi, app bỏ cả catalog font) → cần dán lại vào Remote Config |
 
-## Category — đủ 4 nhóm, mỗi nhóm có icon riêng (40 icon tự vẽ trong `Category/`)
+## Cập nhật 05/11/2026 — 238 theme mới (ID 470–747)
+
+Toàn bộ asset của 238 theme mới được vẽ và tổng hợp bằng code (Python + Pillow + numpy, mã hoá bằng
+ffmpeg), không dùng ảnh hay âm thanh tải trên mạng, không có nhân vật, logo hay người thật. Nhóm:
+Liquid Glass 28, Coquette 19, Kawaii 41, Cute 33, Aesthetic 55, Holiday 23, Minimal 15, Gaming 11,
+Sport 5, K-pop 4, Cat 4. Giá: 99 free, 123 theme 30 cà rốt, 16 premium.
+
+Mỗi thư mục `<name>_theme/` mới có đủ bộ như theme combo, thêm:
+
+| Thành phần | Chuẩn |
+|---|---|
+| `ThemePreview/preview_<name>_theme_1.mp4` | Video preview cho **mọi** theme mới (`preview_video_url`), cùng chuẩn 160 video trong zip combo: 900×600, 5 giây, H.264 yuv420p, không tiếng, lặp liền; 32–297 KB, trung bình 96 KB. Nội dung: gõ phím, popup chữ, hiệu ứng bay đúng `effect_type`, linh vật nhún; theme ngày/đêm chuyển ngày → đêm → ngày |
+| `Keycap/keycap_<name>_normal_1..5.gif` | Phím GIF động cho 16 theme premium (ngày/đêm), giống chuẩn `aries_theme`: 132×160, 6 khung × 130 ms, lặp vô hạn, trong suốt. App rải đều theo mã phím |
+| `Sound/sound_<name>_theme_1.mp3` | Tiếng gõ riêng từng theme, tự tổng hợp theo vibe (pop, bubble, chime, glass, máy đánh chữ, 8-bit…): 238 âm khác nhau, 2,6–7,7 KB |
+| `Background/bg_<name>_night_1.webp`, `PreviewFullKeyboard/preview_<name>_night_1.webp` | Nền và preview đêm cho 16 theme premium (`day_night_animated`, đổi lúc 6h/18h) |
+
+Quy ước (đối chiếu code app):
+
+- `premium_only` ⇔ `theme_type = day_night_animated`, giống 16 theme premium của combo gốc.
+- Phím tĩnh nhiều biến thể: file `_1.webp` là phím chính (khoảng 80% số phím), biến thể khác chỉ rơi vào
+  phím d/i/n/s/x; theme nhiều màu phím đặt tên `_c1, _c2…` để app rải đều.
+- ID 470–747 có 40 chỗ trống (theme bị lọc khi duyệt): 485, 540, 567, 568, 572, 626–631, 662–668,
+  671–673, 678–681, 700, 718, 719, 736–747. Không dùng lại các ID này.
+- `catalog_combo_all.json` còn sửa 160 theme cũ, chỉ trong catalog: 17 `text_color` khó đọc,
+  18 theme thiếu `keycap_special_url_row3`, 1 thanh công cụ trong suốt ở theme ngày/đêm (ID 456).
+- 12 theme bóng đá giữ bản của data mới. Ảnh cầu thủ thật và logo CLB của data cũ không đưa lên repo
+  public này.
+
+Deploy đợt này:
+
+1. Remote Config:
+   - `data_themes_cute_keyboard` ← `catalog_combo_all.json`
+   - `data_categories_cute_keyboard` ← `data_categories_cute_keyboard.json`
+   - `data_theme_fonts` ← `fonts/fonts.json`
+2. App phải tải asset từ repo này. Bản app hiện tại vẫn ghép đường dẫn với
+   `https://raw.githubusercontent.com/Braly-Danang-2/cute_keyboard_data/main/` (`GithubAssetHost.baseUrl`,
+   `SeverRemoteConfig.DATA_BASE_URL_GITHUB`), hoặc CDN `cdn_base_url` nếu bật. Cần đổi sang
+   `https://raw.githubusercontent.com/BaseAppTech/data_keyboard/main/` (hoặc trỏ CDN về repo này) thì
+   theme mới mới tải được.
+
+Bộ sinh theme nằm ở `theme_maker/` trong máy làm data (không đưa lên repo). Đã kiểm tra bằng
+`publish_repo.py check` (mọi đường dẫn trong `catalog_combo_all.json` có file trong repo, ảnh/GIF/video
+đúng chuẩn) và unit test `ExtraThemeCatalogTest` của app (đọc catalog bằng `KeyboardModel`/Gson của app).
+
+## Category — đủ 4 nhóm, mỗi nhóm có icon riêng (42 icon trong `Category/`)
 
 Icon tự sinh bằng `_tools/build_categories.py` (nền pastel bo góc + emoji, webp 128px):
 
 | Nhóm | File JSON | Số category | Icon |
 |---|---|---|---|
-| Theme | `data_categories_cute_keyboard.json` (format `CategoryItem`, set key `data_categories_cute_keyboard`) | 14 (cute 44, trending 15, sport 14, kawaii 14, zodiac 13, new 13, kpop 11, cartoon/aesthetic/minimal/gaming 6, holiday 5, cat 4, pixel 3) | `Category/cate_<type>.webp` |
+| Theme | `data_categories_cute_keyboard.json` (format `CategoryItem`, set key `data_categories_cute_keyboard`) | 16: 14 nhóm gốc (cute, trending, sport, kawaii, zodiac, new, kpop, cartoon, aesthetic, minimal, gaming, holiday, cat, pixel) + 2 nhóm mới 05/11/2026: `glass` (Liquid Glass), `coquette` | `Category/cate_<type>.webp` |
 | Effect | `data_effect_categories.json` + field `category` trong `data_effect_cute_keyboard.json` | 10 (Sparkles 33, Cute 15, Leaves 14, Smoke & Clouds 14, Bubbles 12, Stars 10, Splats 8, Flames 5, Snowflakes 3, Hearts 1) | `Category/effects/effc_*.webp` |
 | Sticker | `data_sticker_categories.json` + field `category`/`type` trong `data_stickers.json` | 10 (Cats 15, Animals/Anime/Cute 12, Couple/Meme 10, Chibi/Food/Seasonal 8, Game 4) | `Category/stickers/stc_*.webp` |
 | Font | `data_font_categories.json` + field `category` sẵn trong `fonts/fonts.json` | 6 (Sans 34, Display 28, Handwriting 24, Cute 12, Serif 8, Mono 6) | `Category/fonts/fontc_*.webp` |

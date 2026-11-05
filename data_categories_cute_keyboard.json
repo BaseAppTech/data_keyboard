@@ -68,5 +68,15 @@
   "type": "aesthetic",
   "en": "Aesthetic",
   "icon_url": "Category/cate_aesthetic.webp"
+ },
+ {
+  "type": "glass",
+  "en": "Liquid Glass",
+  "icon_url": "Category/cate_glass.webp"
+ },
+ {
+  "type": "coquette",
+  "en": "Coquette",
+  "icon_url": "Category/cate_coquette.webp"
  }
 ]
